@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440309474729",
+    "project_id": "cres-3f02c",
+    "storage_bucket": "cres-3f02c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440309474729:android:48858bc1025ea7f7ea50b8",
+        "android_client_info": {
+          "package_name": "com.example.cres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440309474729-fhn8c27g6bb6c24qpca03t4vtr8ofp9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExDR9b4_dS2h9-ISmUCet4qPdxU_Dm8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440309474729-fhn8c27g6bb6c24qpca03t4vtr8ofp9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

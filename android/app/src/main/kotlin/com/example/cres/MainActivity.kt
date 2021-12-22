@@ -1,0 +1,6 @@
+package com.example.cres
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
